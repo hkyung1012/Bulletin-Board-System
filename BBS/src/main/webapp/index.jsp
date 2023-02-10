@@ -8,7 +8,7 @@
 </head>
 <body>
 	<script>
-		location.hred = "login.jsp";
+		location.href = "login.jsp";
 	</script>
 </body>
 </html>
